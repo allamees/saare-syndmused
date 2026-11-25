@@ -1,0 +1,7 @@
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.0
+icalendar>=6.0
+recurring-ical-events>=3.0
+tzdata
+pypdf>=4.0

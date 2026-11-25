@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="et">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Saare sündmused</title>
+  <meta name="description" content="Saare maakonna sündmused ühes kalendris">
+  <meta name="theme-color" content="#0b5e8a" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#0d1b24" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <h1>Saare sündmused</h1>
+      <div class="top-actions">
+        <button id="installBtn" class="icon-btn" hidden title="Paigalda rakendus">Paigalda</button>
+        <button id="viewBtn" class="icon-btn" title="Kuuvaade">Kuu</button>
+      </div>
+    </div>
+    <div class="search-row">
+      <input id="search" type="search" placeholder="Otsi sündmust, kohta…" autocomplete="off" aria-label="Otsing">
+    </div>
+    <nav class="chips" id="dateChips" aria-label="Aeg"></nav>
+    <nav class="chips" id="catChips" aria-label="Kategooriad"></nav>
+  </header>
+
+  <main id="main">
+    <div id="status" class="status">Laen sündmusi…</div>
+    <section id="listView"></section>
+    <section id="monthView" hidden></section>
+  </main>
+
+  <footer class="foot" id="foot"></footer>
+
+  <dialog id="detail">
+    <article id="detailBody"></article>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

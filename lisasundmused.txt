@@ -1,0 +1,26 @@
+# ═══════════════════════════════════════════════════════════════════════
+#  LISASÜNDMUSED — käsitsi lisatud üritused (nt Facebookist nähtud)
+# ═══════════════════════════════════════════════════════════════════════
+#
+#  Iga sündmus on ÜKS RIDA, väljad on eraldatud püstkriipsuga  |
+#
+#     Kuupäev | Kell | Nimi | Koht | Link | Hind
+#
+#  Kohustuslikud: Kuupäev ja Nimi. Ülejäänud võib tühjaks jätta.
+#
+#  Kuupäev:  5.12.2026   või   2026-12-05
+#            mitmepäevane: 5.12.2026-7.12.2026
+#  Kell:     18:00   või   18.00   või   18:00-20:00   (tühi = kogu päev)
+#  Link:     nt Facebooki ürituse aadress (https://...)
+#  Hind:     nt  10 €   või   Tasuta
+#
+#  Trellidega (#) algavad read on kommentaarid — neid ei loeta.
+#  Möödunud sündmused kaovad rakendusest ise; neid ei pea kustutama.
+#
+#  NÄIDE (eemalda rea algusest # märk, et see kehtima hakkaks):
+# 12.12.2026 | 19:00 | Jõulukontsert | Leisi rahvamaja | https://www.facebook.com/events/123 | 10 €
+# 19.12.2026 |       | Jõululaat     | Orissaare kultuurimaja |  | Tasuta
+#
+# ───────────────────── SINU SÜNDMUSED ALLA ─────────────────────────────
+24.04.2027 | 19:00 | Plaatinajuubel | Kuressaare loss kapiitlisaal | | 0 €
+
