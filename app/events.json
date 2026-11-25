@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:16+02:00",
+ "generated": "2026-11-25T20:20+02:00",
  "categories": [
   {
    "key": "film",
@@ -1796,14 +1796,14 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa tansiõhta",
+   "title": "Saaremaa tansiõhtad",
    "start": "2026-11-27T19:00",
-   "url": "https://www.saare.events/node/1765062",
+   "url": "https://www.saare.events/node/1764845",
    "end": null,
    "all_day": false,
    "location": "Nasva Rahvamaja",
    "price": "10.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/32cb18edc77d22e19404505db2d7935b4f2306.jpg?itok=psXKz3Sp",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/904022999_1745389697624975_4713288853177450804_n.jpg?itok=pnPELhdf",
    "description": "",
    "categories": [
     "lava",
@@ -1813,10 +1813,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1765062"
+     "url": "https://www.saare.events/node/1764845"
     }
    ],
-   "id": "ec702f153dcf",
+   "id": "ed61120c8eac",
    "theatre": false,
    "kuressaare": false
   },
@@ -7887,12 +7887,12 @@
   {
    "title": "Talvekontsert Mägi-Johanson-Agan",
    "start": "2027-01-15T18:00",
-   "url": "https://www.saare.events/node/1779097",
+   "url": "https://www.saare.events/node/1775905",
    "end": "2027-01-15T19:20",
    "all_day": false,
-   "location": "Kuressaare kultuurikeskus",
-   "price": "17.00 - 25.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Ma%CC%88gi_Piletilevi.png?itok=meOQtM69",
+   "location": "Kuressaare Kultuurikeskus",
+   "price": "19.00 - 22.00 €",
+   "image": "https://www.saare.events/sites/saare/files/upload/theme/Mariale3_0_0.jpg",
    "description": "Kesk kaunist ja säravat talve, 15. jaanuaril, ootame teid kõiki südamlikule kontserdile. Eesti muusika legend Tõnis Mägi koos kaasa Kärt Jonasoniga astuvad üle pikkade aastate taas Kuressaare kultuurikeskuse lavale. Oma lood ja laulud räägitakse- lauldakse nii koos kui ka eraldi. Juurde Ain Agani kitarride helimaastik.\nTuleb unustamatu õhtu heas muusikalises seltskonnas!\nHinnainfo\nSoodushind kuni…",
    "categories": [
     "lava"
@@ -7900,14 +7900,14 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1779097"
+     "url": "https://www.saare.events/node/1775905"
     },
     {
      "name": "kultuurivara.ee",
      "url": "https://www.kultuurivara.ee/event/talvekontsert-magi-johanson-agan/"
     }
    ],
-   "id": "0404f08876c9",
+   "id": "83bdba6d8fe9",
    "theatre": false,
    "kuressaare": true
   },
@@ -8926,6 +8926,29 @@
    "kuressaare": true
   },
   {
+   "title": "Komöödia kahes vaatuses ''Valede võrgus ehk Vino Veritas''",
+   "start": "2027-03-31T19:00",
+   "url": "https://www.saare.events/node/1525252",
+   "end": null,
+   "all_day": false,
+   "location": "Orissaare Kultuurimaja, Saaremaa",
+   "price": "28.00 - 30.00 €",
+   "image": "https://www.saare.events/sites/saare/files/upload/theme/Mariale3_0_0.jpg",
+   "description": "",
+   "categories": [
+    "lava"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1525252"
+    }
+   ],
+   "id": "9c63fc279068",
+   "theatre": true,
+   "kuressaare": false
+  },
+  {
    "title": "Kukerpillide tänutuur ''Veel viimne kord''",
    "start": "2027-03-31T19:00",
    "url": "https://www.saare.events/node/1697950",
@@ -8947,29 +8970,6 @@
    "id": "75545033a087",
    "theatre": false,
    "kuressaare": true
-  },
-  {
-   "title": "Teatriõhtu Valede võrgus",
-   "start": "2027-03-31T19:00",
-   "url": "https://www.saare.events/node/1766156",
-   "end": null,
-   "all_day": false,
-   "location": "Orissaare kultuurimaja",
-   "price": "28.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/38c2b5896554155240c73ede3a648138bb6ae3.jpg?itok=nnQA7-fg",
-   "description": "",
-   "categories": [
-    "lava"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1766156"
-    }
-   ],
-   "id": "8fb79be25a95",
-   "theatre": true,
-   "kuressaare": false
   },
   {
    "title": "Tõde",
@@ -9562,38 +9562,14 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad. Beethoven. Fidelio",
+   "title": "Saaremaa ooperipäevad 2027. Beethoven. Fidelio",
    "start": "2027-07-20T20:00",
-   "url": "https://www.saare.events/node/1539964",
+   "url": "https://www.saare.events/node/1536450",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "90.00 - 150.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_Fidelio_1500x785px.jpg?itok=YaqIubkD",
-   "description": "",
-   "categories": [
-    "pidu",
-    "lava"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1539964"
-    }
-   ],
-   "id": "a677be26a0f5",
-   "theatre": true,
-   "kuressaare": true
-  },
-  {
-   "title": "Saaremaa ooperipäevad 2027.Verdi. Maskiball",
-   "start": "2027-07-21T20:00",
-   "url": "https://www.saare.events/node/1536452",
-   "end": null,
-   "all_day": false,
-   "location": "Kuressaare lossi ooperimaja",
-   "price": "252.00 -  €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-10/505800.jpg?itok=NnIhbVvb",
+   "price": "92.00 - 152.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-08/505799.jpg?itok=1BlkS5kb",
    "description": "",
    "categories": [
     "lava",
@@ -9602,10 +9578,34 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1536452"
+     "url": "https://www.saare.events/node/1536450"
     }
    ],
-   "id": "0104e5eff099",
+   "id": "5b32a3378c80",
+   "theatre": true,
+   "kuressaare": true
+  },
+  {
+   "title": "Saaremaa ooperipäevad.Verdi. Maskiball",
+   "start": "2027-07-21T20:00",
+   "url": "https://www.saare.events/node/1539998",
+   "end": null,
+   "all_day": false,
+   "location": "Kuressaare lossi ooperimaja",
+   "price": "100.00 - 250.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_Maskiball_1500x785px.jpg?itok=qK33tx1q",
+   "description": "",
+   "categories": [
+    "pidu",
+    "lava"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1539998"
+    }
+   ],
+   "id": "751309124296",
    "theatre": true,
    "kuressaare": true
   },
@@ -9754,14 +9754,14 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad. Ooperigala \"Õhtu ooperis\"",
+   "title": "Saaremaa ooperipäevad 2027. ooperigala",
    "start": "2027-07-24T20:00",
-   "url": "https://www.saare.events/node/1540006",
+   "url": "https://www.saare.events/node/1536448",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "100.00 - 275.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_Ooperigala_1500x785px.jpg?itok=RWozppUw",
+   "price": "102.00 - 277.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-08/505803.jpg?itok=h4szIboa",
    "description": "",
    "categories": [
     "lava",
@@ -9770,10 +9770,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1540006"
+     "url": "https://www.saare.events/node/1536448"
     }
    ],
-   "id": "cb2b670b93b2",
+   "id": "9700ca38831e",
    "theatre": true,
    "kuressaare": true
   },
@@ -9802,14 +9802,14 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad 2027. Lasteooper ööbik",
+   "title": "Saaremaa ooperipäevad. Lasteooper ööbik",
    "start": "2027-07-25T14:00",
-   "url": "https://www.saare.events/node/1536451",
+   "url": "https://www.saare.events/node/1540008",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "12.00 - 87.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/505804.jpg?itok=kZ5NFNd5",
+   "price": "25.00 - 85.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_O%CC%88o%CC%88bik_1500x785px.jpg?itok=7bZiNlBT",
    "description": "",
    "categories": [
     "lava",
@@ -9818,10 +9818,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1536451"
+     "url": "https://www.saare.events/node/1540008"
     }
    ],
-   "id": "c07efea3cab2",
+   "id": "5a1b65c7db0a",
    "theatre": true,
    "kuressaare": true
   }
