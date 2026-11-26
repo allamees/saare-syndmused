@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:16+02:00",
+ "generated": "2026-11-26T15:34+02:00",
  "categories": [
   {
    "key": "film",
@@ -48,7 +48,7 @@
    "name": "saare.events",
    "url": "https://www.saare.events/",
    "ok": true,
-   "count": 339
+   "count": 340
   },
   {
    "name": "saaresport.ee",
@@ -66,7 +66,7 @@
    "name": "kultuurivara.ee",
    "url": "https://www.kultuurivara.ee/",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "name": "piletilevi.ee",
@@ -1728,29 +1728,6 @@
   {
    "title": "Billie ja võlumaailm",
    "start": "2026-11-28T12:00",
-   "url": "https://www.saare.events/node/1789942",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Hexed_2592x3840fixed.jpg?itok=2oj1LR2X",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789942"
-    }
-   ],
-   "id": "fd612422b78b",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Billie ja võlumaailm",
-   "start": "2026-11-28T12:00",
    "url": "https://www.saare.events/node/1789842",
    "end": null,
    "all_day": false,
@@ -1768,6 +1745,29 @@
     }
    ],
    "id": "c451db7d8c3d",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Billie ja võlumaailm",
+   "start": "2026-11-28T12:00",
+   "url": "https://www.saare.events/node/1789942",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Hexed_2592x3840fixed.jpg?itok=2oj1LR2X",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1789942"
+    }
+   ],
+   "id": "fd612422b78b",
    "theatre": false,
    "kuressaare": true
   },
@@ -2588,14 +2588,14 @@
    "kuressaare": true
   },
   {
-   "title": "Advendtuli kodusadamas",
+   "title": "Advendituli kodusadamas",
    "start": "2026-11-29T15:00",
-   "url": "https://www.saare.events/node/1771228",
+   "url": "https://www.saare.events/node/1770640",
    "end": null,
    "all_day": false,
    "location": "Nasva Rahvamaja",
    "price": "Tasuta",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/1914f2903c46cd2b1c0ce1f7b10c2c70b7d36f.png?itok=C4tw4NLN",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Nimetu%20%28800%20x%20500%20px%29%20%286%29.png?itok=ZSv4w1yL",
    "description": "",
    "categories": [
     "pidu"
@@ -2603,10 +2603,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1771228"
+     "url": "https://www.saare.events/node/1770640"
     }
    ],
-   "id": "53860278c8e6",
+   "id": "24a6a3f25370",
    "theatre": false,
    "kuressaare": false
   },
@@ -7441,6 +7441,30 @@
    "kuressaare": false
   },
   {
+   "title": "Aastavahetus Kuressaare keskväljakul bändiga Boogie Company",
+   "start": "2026-12-31T23:00",
+   "url": "https://www.kultuurivara.ee/event/aastavahetus-kuressaare-keskvaljakul-bandiga-boogie-company/",
+   "end": "2027-01-01T01:00",
+   "all_day": false,
+   "location": "Kuressaare keskväljak, Kuressaare",
+   "price": "",
+   "image": "https://www.kultuurivara.ee/wp-content/uploads/2026/11/AV_madalam.png",
+   "description": "Aastavahetusel kohtume taas Kuressaare keskväljakul!\n31. detsembri hilisõhtul kell 23.00 koguneme Kuressaare keskväljakule. Ikka selleks, et nautida head muusikat, kuulata Saaremaa vallavalitsuse esindaja ja Eesti Vabariigi presidendi Ülle Madise kõnesid ning mis peamine – saata vana-aasta ära ja võtta uus väärikalt vastu!\nMeeleolukal õhtul mängib hoogsat tantsumuusikat Boogie Company.\nSündmus on…",
+   "categories": [
+    "pidu",
+    "lava"
+   ],
+   "sources": [
+    {
+     "name": "kultuurivara.ee",
+     "url": "https://www.kultuurivara.ee/event/aastavahetus-kuressaare-keskvaljakul-bandiga-boogie-company/"
+    }
+   ],
+   "id": "5736629b2dc2",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
    "title": "Rahvusteatri Vanemuine festival „Kultuurilaine üle mere – teine tulemine“",
    "start": "2027-01-07",
    "url": "https://saaremaaspordikool.ee/event/rahvusteatri-vanemuine-festival-kultuurilaine-ule-mere-teine-tulemine/",
@@ -7732,7 +7756,7 @@
    "all_day": false,
    "location": "Kuressaare Kultuurikeskus",
    "price": "25 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Ma%CC%88gi_Piletilevi.png?itok=meOQtM69",
+   "image": "https://www.saare.events/sites/saare/files/upload/theme/Mariale3_0_0.jpg",
    "description": "Kesk kaunist ja säravat talve, 15. jaanuaril, ootame teid kõiki südamlikule kontserdile. Eesti muusika legend Tõnis Mägi koos kaasa Kärt Jonasoniga astuvad üle pikkade aastate taas Kuressaare kultuurikeskuse lavale. Oma lood ja laulud räägitakse- lauldakse nii koos kui ka eraldi. Juurde Ain Agani kitarride helimaastik.\nTuleb unustamatu õhtu heas muusikalises seltskonnas!\nHinnainfo\nSoodushind kuni…",
    "categories": [
     "lava"
@@ -7744,7 +7768,7 @@
     },
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1779097"
+     "url": "https://www.saare.events/node/1775905"
     },
     {
      "name": "kultuurivara.ee",
@@ -7871,9 +7895,9 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa Gümnaasiumi 7. lend esitleb revüüetendus - Meie, Inimesed\"",
+   "title": "Saaremaa Gümnaasiumi 7. lend esitleb - revüüetendus \"Meie, Inimesed\"",
    "start": "2027-01-22T19:00",
-   "url": "https://www.saare.events/node/1790542",
+   "url": "https://www.saare.events/node/1791641",
    "end": null,
    "all_day": false,
    "location": "Kuressaare Kultuurikeskus",
@@ -7886,7 +7910,7 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1790542"
+     "url": "https://www.saare.events/node/1791641"
     }
    ],
    "id": "330d9bc3dd45",
@@ -9523,9 +9547,9 @@
    "kuressaare": true
   },
   {
-   "title": "Ristumine Peateega ehk Muinasjutt kuldsest kalakesest",
+   "title": "Ristumine Peateega ehk Muinasjutt kuldsest kalakesest - lisaetendused 2027!",
    "start": "2027-06-27T19:00",
-   "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest?lang=et_EE",
+   "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest-lisaetendused-2027?lang=et_EE",
    "end": null,
    "all_day": false,
    "location": "Kuressaare Teater",
@@ -9539,7 +9563,7 @@
    "sources": [
     {
      "name": "piletimaailm.com",
-     "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest?lang=et_EE"
+     "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest-lisaetendused-2027?lang=et_EE"
     }
    ],
    "id": "89eb7fdf4534",
@@ -9547,9 +9571,9 @@
    "kuressaare": true
   },
   {
-   "title": "Ristumine Peateega ehk Muinasjutt kuldsest kalakesest",
+   "title": "Ristumine Peateega ehk Muinasjutt kuldsest kalakesest - lisaetendused 2027!",
    "start": "2027-06-28T19:00",
-   "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest?lang=et_EE",
+   "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest-lisaetendused-2027?lang=et_EE",
    "end": null,
    "all_day": false,
    "location": "Kuressaare Teater",
@@ -9563,7 +9587,7 @@
    "sources": [
     {
      "name": "piletimaailm.com",
-     "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest?lang=et_EE"
+     "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest-lisaetendused-2027?lang=et_EE"
     }
    ],
    "id": "3c0370d67a99",
@@ -9571,9 +9595,9 @@
    "kuressaare": true
   },
   {
-   "title": "Ristumine Peateega ehk Muinasjutt kuldsest kalakesest",
+   "title": "Ristumine Peateega ehk Muinasjutt kuldsest kalakesest - lisaetendused 2027!",
    "start": "2027-06-29T19:00",
-   "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest?lang=et_EE",
+   "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest-lisaetendused-2027?lang=et_EE",
    "end": null,
    "all_day": false,
    "location": "Kuressaare Teater",
@@ -9587,7 +9611,7 @@
    "sources": [
     {
      "name": "piletimaailm.com",
-     "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest?lang=et_EE"
+     "url": "https://www.piletimaailm.com/performances/151639-ristumine-peateega-ehk-muinasjutt-kuldsest-kalakesest-lisaetendused-2027?lang=et_EE"
     }
    ],
    "id": "ffc819931be9",
@@ -9643,26 +9667,26 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad 2027. Beethoven. Fidelio",
+   "title": "Saaremaa ooperipäevad. Beethoven. Fidelio",
    "start": "2027-07-20T20:00",
-   "url": "https://www.saare.events/node/1536450",
+   "url": "https://www.saare.events/node/1539964",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "92.00 - 152.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-08/505799.jpg?itok=1BlkS5kb",
+   "price": "90.00 - 150.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_Fidelio_1500x785px.jpg?itok=YaqIubkD",
    "description": "",
    "categories": [
-    "lava",
-    "pidu"
+    "pidu",
+    "lava"
    ],
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1536450"
+     "url": "https://www.saare.events/node/1539964"
     }
    ],
-   "id": "5b32a3378c80",
+   "id": "a677be26a0f5",
    "theatre": true,
    "kuressaare": true
   },
@@ -9763,26 +9787,26 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad. Bizet. Carmen",
+   "title": "Saaremaa ooperipäevad 2027.Bizet. Carmen",
    "start": "2027-07-23T20:00",
-   "url": "https://www.saare.events/node/1540002",
+   "url": "https://www.saare.events/node/1536449",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "95.00 - 250.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_Carmen_1500x785px.jpg?itok=WG2l6x5x",
+   "price": "-  €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/505802.jpg?itok=mijKbJsD",
    "description": "",
    "categories": [
-    "pidu",
-    "lava"
+    "lava",
+    "pidu"
    ],
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1540002"
+     "url": "https://www.saare.events/node/1536449"
     }
    ],
-   "id": "a492632e3486",
+   "id": "89bf18188f31",
    "theatre": true,
    "kuressaare": true
   },
@@ -9883,14 +9907,14 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad. Lasteooper ööbik",
+   "title": "Saaremaa ooperipäevad 2027. Lasteooper ööbik",
    "start": "2027-07-25T14:00",
-   "url": "https://www.saare.events/node/1540008",
+   "url": "https://www.saare.events/node/1536451",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "25.00 - 85.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_O%CC%88o%CC%88bik_1500x785px.jpg?itok=7bZiNlBT",
+   "price": "12.00 - 87.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/505804.jpg?itok=kZ5NFNd5",
    "description": "",
    "categories": [
     "lava",
@@ -9899,10 +9923,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1540008"
+     "url": "https://www.saare.events/node/1536451"
     }
    ],
-   "id": "5a1b65c7db0a",
+   "id": "c07efea3cab2",
    "theatre": true,
    "kuressaare": true
   }
