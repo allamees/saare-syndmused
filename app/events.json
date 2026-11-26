@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T14:14+02:00",
+ "generated": "2026-11-26T14:16+02:00",
  "categories": [
   {
    "key": "film",
@@ -2588,14 +2588,14 @@
    "kuressaare": true
   },
   {
-   "title": "Advendituli kodusadamas",
+   "title": "Advendtuli kodusadamas",
    "start": "2026-11-29T15:00",
-   "url": "https://www.saare.events/node/1770640",
+   "url": "https://www.saare.events/node/1771228",
    "end": null,
    "all_day": false,
    "location": "Nasva Rahvamaja",
    "price": "Tasuta",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Nimetu%20%28800%20x%20500%20px%29%20%286%29.png?itok=ZSv4w1yL",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/1914f2903c46cd2b1c0ce1f7b10c2c70b7d36f.png?itok=C4tw4NLN",
    "description": "",
    "categories": [
     "pidu"
@@ -2603,10 +2603,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1770640"
+     "url": "https://www.saare.events/node/1771228"
     }
    ],
-   "id": "24a6a3f25370",
+   "id": "53860278c8e6",
    "theatre": false,
    "kuressaare": false
   },
@@ -7732,7 +7732,7 @@
    "all_day": false,
    "location": "Kuressaare Kultuurikeskus",
    "price": "25 €",
-   "image": "https://www.saare.events/sites/saare/files/upload/theme/Mariale3_0_0.jpg",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Ma%CC%88gi_Piletilevi.png?itok=meOQtM69",
    "description": "Kesk kaunist ja säravat talve, 15. jaanuaril, ootame teid kõiki südamlikule kontserdile. Eesti muusika legend Tõnis Mägi koos kaasa Kärt Jonasoniga astuvad üle pikkade aastate taas Kuressaare kultuurikeskuse lavale. Oma lood ja laulud räägitakse- lauldakse nii koos kui ka eraldi. Juurde Ain Agani kitarride helimaastik.\nTuleb unustamatu õhtu heas muusikalises seltskonnas!\nHinnainfo\nSoodushind kuni…",
    "categories": [
     "lava"
@@ -7744,7 +7744,7 @@
     },
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1775905"
+     "url": "https://www.saare.events/node/1779097"
     },
     {
      "name": "kultuurivara.ee",
@@ -9643,26 +9643,26 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad. Beethoven. Fidelio",
+   "title": "Saaremaa ooperipäevad 2027. Beethoven. Fidelio",
    "start": "2027-07-20T20:00",
-   "url": "https://www.saare.events/node/1539964",
+   "url": "https://www.saare.events/node/1536450",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "90.00 - 150.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_Fidelio_1500x785px.jpg?itok=YaqIubkD",
+   "price": "92.00 - 152.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-08/505799.jpg?itok=1BlkS5kb",
    "description": "",
    "categories": [
-    "pidu",
-    "lava"
+    "lava",
+    "pidu"
    ],
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1539964"
+     "url": "https://www.saare.events/node/1536450"
     }
    ],
-   "id": "a677be26a0f5",
+   "id": "5b32a3378c80",
    "theatre": true,
    "kuressaare": true
   },
@@ -9763,26 +9763,26 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad 2027.Bizet. Carmen",
+   "title": "Saaremaa ooperipäevad. Bizet. Carmen",
    "start": "2027-07-23T20:00",
-   "url": "https://www.saare.events/node/1536449",
+   "url": "https://www.saare.events/node/1540002",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "-  €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/505802.jpg?itok=mijKbJsD",
+   "price": "95.00 - 250.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_Carmen_1500x785px.jpg?itok=WG2l6x5x",
    "description": "",
    "categories": [
-    "lava",
-    "pidu"
+    "pidu",
+    "lava"
    ],
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1536449"
+     "url": "https://www.saare.events/node/1540002"
     }
    ],
-   "id": "89bf18188f31",
+   "id": "a492632e3486",
    "theatre": true,
    "kuressaare": true
   },
@@ -9883,14 +9883,14 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa ooperipäevad 2027. Lasteooper ööbik",
+   "title": "Saaremaa ooperipäevad. Lasteooper ööbik",
    "start": "2027-07-25T14:00",
-   "url": "https://www.saare.events/node/1536451",
+   "url": "https://www.saare.events/node/1540008",
    "end": null,
    "all_day": false,
    "location": "Kuressaare lossi ooperimaja",
-   "price": "12.00 - 87.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/505804.jpg?itok=kZ5NFNd5",
+   "price": "25.00 - 85.00 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-07/SOP27_O%CC%88o%CC%88bik_1500x785px.jpg?itok=7bZiNlBT",
    "description": "",
    "categories": [
     "lava",
@@ -9899,10 +9899,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1536451"
+     "url": "https://www.saare.events/node/1540008"
     }
    ],
-   "id": "c07efea3cab2",
+   "id": "5a1b65c7db0a",
    "theatre": true,
    "kuressaare": true
   }
