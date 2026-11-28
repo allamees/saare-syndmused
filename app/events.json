@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T15:31+02:00",
+ "generated": "2026-11-28T14:43+02:00",
  "categories": [
   {
    "key": "film",
@@ -48,7 +48,7 @@
    "name": "saare.events",
    "url": "https://www.saare.events/",
    "ok": true,
-   "count": 327
+   "count": 309
   },
   {
    "name": "saaresport.ee",
@@ -85,7 +85,7 @@
    "name": "Saaremaa Teataja",
    "url": "https://www.saaremaavald.ee/vallaleht",
    "ok": true,
-   "count": 40
+   "count": 39
   }
  ],
  "events": [
@@ -279,30 +279,6 @@
    "kuressaare": true
   },
   {
-   "title": "Rahvatantsurühma \"Meelespea\" 40. juubelipidu",
-   "start": "2026-11-27",
-   "url": "https://www.saare.events/node/1736405",
-   "end": "2026-11-28",
-   "all_day": true,
-   "location": "Salme rahvamaja",
-   "price": "10.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/ac3d8c22fc3884978f60e0e8cbf157baad5328.jpg?itok=IkFwG4ZU",
-   "description": "",
-   "categories": [
-    "lava",
-    "pidu"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1736405"
-    }
-   ],
-   "id": "b310858acdba",
-   "theatre": false,
-   "kuressaare": false
-  },
-  {
    "title": "SAI x ipizza",
    "start": "2026-11-27",
    "url": "https://www.saare.events/node/1788827",
@@ -324,583 +300,6 @@
    "id": "0add629ca94e",
    "theatre": false,
    "kuressaare": false
-  },
-  {
-   "title": "Vello Liivi seenefotograafia näitus",
-   "start": "2026-11-27T10:00",
-   "url": "https://www.saare.events/node/1726893",
-   "end": null,
-   "all_day": false,
-   "location": "Viidumäe Looduskeskus",
-   "price": "3.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Kollakaspruun%20ka%CC%88rbseseen.%20Amanita%20fulva.jpg?itok=iYLyUWFE",
-   "description": "",
-   "categories": [
-    "naitus"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1726893"
-    }
-   ],
-   "id": "bc0a4478ee91",
-   "theatre": false,
-   "kuressaare": false
-  },
-  {
-   "title": "Billie ja võlumaailm",
-   "start": "2026-11-27T11:00",
-   "url": "https://www.saare.events/node/1789830",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/KhMQ2dufdB2M7bAXU2KiKEudbrP2fJ-metaYmlsbGllLWphLXZvbHVtYWFpbG0tcG9zdGVyLmpwZw%3D%3D-.jpg?itok=lRt_WY59",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789830"
-    }
-   ],
-   "id": "46664470c420",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Kolenunnu",
-   "start": "2026-11-27T11:30",
-   "url": "https://www.saare.events/node/1789831",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/l0vKKwc8Ri1WqFbXBBdNRBckl6RVW5-metaa29sZW51bm51LXBvc3Rlci5qcGc%3D-.jpg?itok=Mpzbl4J7",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789831"
-    }
-   ],
-   "id": "040c8a2089d8",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Vabatahtlike seltsiliste võrgustiku tutvustus",
-   "start": "2026-11-27T13:00",
-   "url": "https://www.saaremaavald.ee/sites/default/files/documents/2026-11/Saaremaa%20Teataja%202026_11.pdf",
-   "end": null,
-   "all_day": false,
-   "location": "Kuressaare päevakeskus",
-   "price": "",
-   "image": "",
-   "description": "",
-   "categories": [
-    "muu"
-   ],
-   "sources": [
-    {
-     "name": "Saaremaa Teataja",
-     "url": "https://www.saaremaavald.ee/sites/default/files/documents/2026-11/Saaremaa%20Teataja%202026_11.pdf"
-    }
-   ],
-   "id": "be8afb0705de",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Hüljatud",
-   "start": "2026-11-27T13:15",
-   "url": "https://www.saare.events/node/1789832",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/s6HmxEREzDrHybOmjJL8CvFNh93m03-metaaHVsamF0dWQtcG9zdGVyLmpwZw%3D%3D-.jpg?itok=rnx6Em6q",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789832"
-    }
-   ],
-   "id": "af8b9ae319cf",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Väike koletis Mia",
-   "start": "2026-11-27T13:15",
-   "url": "https://www.saare.events/node/1789833",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-10/oWKkcaaqoPwJEUrBsqHyCDSlJXfV0d-metaTW9uc3Rlck1pYV9CMV9FRV9QcmV2aWV3LmpwZw%3D%3D-.jpg?itok=kbuvmiZj",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789833"
-    }
-   ],
-   "id": "ebbc1a72814e",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Mind ei ole sinuta",
-   "start": "2026-11-27T14:00",
-   "url": "https://www.saare.events/node/1789933",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/MindEiOleSinuta_EE_Apollo_EPstr_2592x3840POFF.jpg?itok=F37EokQz",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789933"
-    }
-   ],
-   "id": "ce7b3ace62f9",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Ulja",
-   "start": "2026-11-27T14:30",
-   "url": "https://www.saare.events/node/1789934",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Ulja_2592x3840pxx.jpg?itok=U8AoshaS",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789934"
-    }
-   ],
-   "id": "c4736a26f8df",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Mind ei ole sinuta",
-   "start": "2026-11-27T15:00",
-   "url": "https://www.saare.events/node/1789834",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/pyNoVhlqdsWtBWeMIa4Dr0NROsqeMK-metabWluZC1laS1vbGUtc2ludXRhLXBvc3Rlci5qcGc%3D-.jpg?itok=P6tx-_U2",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789834"
-    }
-   ],
-   "id": "ee74a3f8d8cb",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Musta pori näkku",
-   "start": "2026-11-27T16:15",
-   "url": "https://www.saare.events/node/1789935",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-10/mustaporinakku-plakat-B1.jpg?itok=3BoK7bNI",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789935"
-    }
-   ],
-   "id": "23d4d1be3330",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Charlie ja Harper",
-   "start": "2026-11-27T16:30",
-   "url": "https://www.saare.events/node/1789835",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/PkAZPvh7cTaEeYAeEbs6o0EyN6ttlh-metaY2hhcmxpZS1qYS1oYXJwZXItcG9zdGVyLmpwZw%3D%3D-.jpg?itok=Fmj5md11",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789835"
-    }
-   ],
-   "id": "1b1468f363ac",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Charlie ja Harper",
-   "start": "2026-11-27T17:00",
-   "url": "https://www.saare.events/node/1789936",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/CharlieHarper_EE_Apollo_EPstr_2592x3840.jpg?itok=YUMmAvdY",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789936"
-    }
-   ],
-   "id": "10df36d24e7e",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Punased jõulud",
-   "start": "2026-11-27T17:00",
-   "url": "https://www.saare.events/node/1789836",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/gsP1wt4E38fF4X6KrfIQpQtEh7Ybcz-metacHVuYXNlZC1qb3VsdWQtcG9zdGVyLmpwZw%3D%3D-.jpg?itok=ufjLG1wo",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789836"
-    }
-   ],
-   "id": "c2a0914a0d81",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Billie ja võlumaailm",
-   "start": "2026-11-27T18:20",
-   "url": "https://www.saare.events/node/1789937",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Hexed_2592x3840fixed.jpg?itok=2oj1LR2X",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789937"
-    }
-   ],
-   "id": "c55e68bafefa",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Metsik hobu üheksa",
-   "start": "2026-11-27T18:30",
-   "url": "https://www.saare.events/node/1789837",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/DZN9bdp4UL0iln70fc6A1VTBXyW9zc-metabWV0c2lrLWhvYnUtdWhla3NhLXBvc3Rlci5qcGc%3D-.jpg?itok=PUx-PJO6",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789837"
-    }
-   ],
-   "id": "6abf38339eb9",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Muhu lahtised MV võrkpallis: Upa – Spordikool U16",
-   "start": "2026-11-27T18:30",
-   "url": "https://www.saaresport.ee/event/muhu-lahtised-mv-vorkpallis-upa-spordikool-u16/",
-   "end": null,
-   "all_day": false,
-   "location": "Vanalinna Kooli võimla @ Kuressaare",
-   "price": "Tasuta",
-   "image": "",
-   "description": "",
-   "categories": [
-    "sport"
-   ],
-   "sources": [
-    {
-     "name": "saaresport.ee",
-     "url": "https://www.saaresport.ee/event/muhu-lahtised-mv-vorkpallis-upa-spordikool-u16/"
-    }
-   ],
-   "id": "128a98efba8b",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Ipizza karaokeöhtu",
-   "start": "2026-11-27T19:00",
-   "url": "https://www.saare.events/node/1788957",
-   "end": null,
-   "all_day": false,
-   "location": "iPizza, illiku laid, Orissaare",
-   "price": "Tasuta",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/PV_271126_IPIZZA_KARAOKE%C3%96HTU_EVENT_RED.jpg?itok=d4CaYDxi",
-   "description": "",
-   "categories": [
-    "lava"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1788957"
-    }
-   ],
-   "id": "a4019e4b8cd5",
-   "theatre": false,
-   "kuressaare": false
-  },
-  {
-   "title": "Klaveriõnnetus",
-   "start": "2026-11-27T19:00",
-   "url": "https://www.saare.events/node/1789838",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/fghnOLJlcSg2d4Y8mQdZj088yySt42-metabGFjY2lkZW50LWRlLXBpYW5vLXBvc3Rlci5qcGc%3D-.jpg?itok=PpMOEM2v",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789838"
-    }
-   ],
-   "id": "a7cfb4d76395",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Saaremaa tansiõhta",
-   "start": "2026-11-27T19:00",
-   "url": "https://www.saare.events/node/1765062",
-   "end": null,
-   "all_day": false,
-   "location": "Nasva Rahvamaja",
-   "price": "10.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/32cb18edc77d22e19404505db2d7935b4f2306.jpg?itok=psXKz3Sp",
-   "description": "",
-   "categories": [
-    "lava",
-    "pidu",
-    "koolitus"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1765062"
-    }
-   ],
-   "id": "ec702f153dcf",
-   "theatre": false,
-   "kuressaare": false
-  },
-  {
-   "title": "𝐕𝐞𝐢𝐧 𝐯𝐬 𝐤𝐨𝐤𝐭𝐞𝐢𝐥 | 𝟓-𝐤ä𝐢𝐠𝐮𝐥𝐢𝐧𝐞 𝐞𝐥𝐚𝐦𝐮𝐬𝐥𝐢𝐤 õ𝐡𝐭𝐮𝐬öö𝐤",
-   "start": "2026-11-27T19:00",
-   "url": "https://www.saare.events/node/1624946",
-   "end": null,
-   "all_day": false,
-   "location": "Arensburg Boutique Hotel & Spa",
-   "price": "89.00 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-10/VEIN%20VS%20KOKTEIL%2027.nov%202026-kaanefoto.png?itok=8lSZqTzD",
-   "description": "",
-   "categories": [
-    "pidu"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1624946"
-    }
-   ],
-   "id": "b4e099ced01b",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Kohtumine miniaga",
-   "start": "2026-11-27T19:15",
-   "url": "https://www.saare.events/node/1789938",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Focker-In-Law-ee-2592x3840.jpg?itok=Dto17aHY",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789938"
-    }
-   ],
-   "id": "3cf69cd82e86",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Näljamängud. Lõikuspäeva päikesetõus",
-   "start": "2026-11-27T20:45",
-   "url": "https://www.saare.events/node/1789939",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/HungerGamesSOTR_B1Capitol_EE_Preview.jpg?itok=gDplnhfK",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789939"
-    }
-   ],
-   "id": "01d5be569e76",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Öölaps",
-   "start": "2026-11-27T20:50",
-   "url": "https://www.saare.events/node/1789839",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/WTUtwaXXmcTxJuCWzT4jL4jQvame8W-metab29sYXBzX3Bvc3Rlcl8yMDI1eDMwMDAuanBn-.jpg?itok=K9FjlnQD",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789839"
-    }
-   ],
-   "id": "19819ed74add",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Kohtumine miniaga",
-   "start": "2026-11-27T21:00",
-   "url": "https://www.saare.events/node/1789840",
-   "end": null,
-   "all_day": false,
-   "location": "Thule Kino",
-   "price": "4.00 - 10.50 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/WhcbcwBF9f6GuOOqce65UMxQvmjWAt-metaa29odHVtaW5lLW1pbmlhZ2FfcG9zdGVyX2V0XzEzNTB4MjAwMC5qcGc%3D-.jpg?itok=TbNQHKXq",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789840"
-    }
-   ],
-   "id": "b01124d4f930",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Mind ei ole sinuta",
-   "start": "2026-11-27T21:35",
-   "url": "https://www.saare.events/node/1789940",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/MindEiOleSinuta_EE_Apollo_EPstr_2592x3840POFF.jpg?itok=F37EokQz",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789940"
-    }
-   ],
-   "id": "bcc60797359a",
-   "theatre": false,
-   "kuressaare": true
   },
   {
    "title": "Ipizza house party",
@@ -1067,29 +466,6 @@
   {
    "title": "Billie ja võlumaailm",
    "start": "2026-11-28T12:00",
-   "url": "https://www.saare.events/node/1789942",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Hexed_2592x3840fixed.jpg?itok=2oj1LR2X",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789942"
-    }
-   ],
-   "id": "fd612422b78b",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Billie ja võlumaailm",
-   "start": "2026-11-28T12:00",
    "url": "https://www.saare.events/node/1789842",
    "end": null,
    "all_day": false,
@@ -1107,6 +483,29 @@
     }
    ],
    "id": "c451db7d8c3d",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Billie ja võlumaailm",
+   "start": "2026-11-28T12:00",
+   "url": "https://www.saare.events/node/1789942",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Hexed_2592x3840fixed.jpg?itok=2oj1LR2X",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1789942"
+    }
+   ],
+   "id": "fd612422b78b",
    "theatre": false,
    "kuressaare": true
   },
@@ -1130,6 +529,29 @@
     }
    ],
    "id": "38ede34bfb5d",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Üleminekumäng! FC Kuressaare vs Viimsi JK",
+   "start": "2026-11-28T12:30",
+   "url": "https://www.saaresport.ee/event/uleminekumang-fc-kuressaare-vs-viimsi-jk/",
+   "end": null,
+   "all_day": false,
+   "location": "Kuressaare kunstmuruväljak @ Vuti 1",
+   "price": "Tasuta",
+   "image": "",
+   "description": "",
+   "categories": [
+    "sport"
+   ],
+   "sources": [
+    {
+     "name": "saaresport.ee",
+     "url": "https://www.saaresport.ee/event/uleminekumang-fc-kuressaare-vs-viimsi-jk/"
+    }
+   ],
+   "id": "1a65bb221a7a",
    "theatre": false,
    "kuressaare": true
   },
@@ -1743,29 +1165,6 @@
   {
    "title": "Kolenunnu",
    "start": "2026-11-29T12:00",
-   "url": "https://www.saare.events/node/1789951",
-   "end": null,
-   "all_day": false,
-   "location": "Apollo Kino Saaremaa",
-   "price": "4.69 - 8.29 €",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/2595_3840%281%29.jpg?itok=OUbshX6U",
-   "description": "",
-   "categories": [
-    "film"
-   ],
-   "sources": [
-    {
-     "name": "saare.events",
-     "url": "https://www.saare.events/node/1789951"
-    }
-   ],
-   "id": "f3bbe25cf17d",
-   "theatre": false,
-   "kuressaare": true
-  },
-  {
-   "title": "Kolenunnu",
-   "start": "2026-11-29T12:00",
    "url": "https://www.saare.events/node/1789853",
    "end": null,
    "all_day": false,
@@ -1783,6 +1182,29 @@
     }
    ],
    "id": "82329ae2b0d7",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Kolenunnu",
+   "start": "2026-11-29T12:00",
+   "url": "https://www.saare.events/node/1789951",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/2595_3840%281%29.jpg?itok=OUbshX6U",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1789951"
+    }
+   ],
+   "id": "f3bbe25cf17d",
    "theatre": false,
    "kuressaare": true
   },
@@ -1904,14 +1326,14 @@
    "kuressaare": true
   },
   {
-   "title": "Advendituli kodusadamas",
+   "title": "Advendtuli kodusadamas",
    "start": "2026-11-29T15:00",
-   "url": "https://www.saare.events/node/1770640",
+   "url": "https://www.saare.events/node/1771228",
    "end": null,
    "all_day": false,
    "location": "Nasva Rahvamaja",
    "price": "Tasuta",
-   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Nimetu%20%28800%20x%20500%20px%29%20%286%29.png?itok=ZSv4w1yL",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/1914f2903c46cd2b1c0ce1f7b10c2c70b7d36f.png?itok=C4tw4NLN",
    "description": "",
    "categories": [
     "pidu"
@@ -1919,10 +1341,10 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1770640"
+     "url": "https://www.saare.events/node/1771228"
     }
    ],
-   "id": "24a6a3f25370",
+   "id": "53860278c8e6",
    "theatre": false,
    "kuressaare": false
   },
@@ -3700,6 +3122,52 @@
    "kuressaare": true
   },
   {
+   "title": "Kolenunnu",
+   "start": "2026-12-03T13:35",
+   "url": "https://www.saare.events/node/1792491",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/2595_3840%281%29.jpg?itok=OUbshX6U",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792491"
+    }
+   ],
+   "id": "95a423137da9",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Mind ei ole sinuta",
+   "start": "2026-12-03T14:00",
+   "url": "https://www.saare.events/node/1792492",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/MindEiOleSinuta_EE_Apollo_EPstr_2592x3840POFF.jpg?itok=F37EokQz",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792492"
+    }
+   ],
+   "id": "90c506267315",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
    "title": "Mind ei ole sinuta",
    "start": "2026-12-03T15:00",
    "url": "https://www.saare.events/node/1789888",
@@ -3742,6 +3210,52 @@
     }
    ],
    "id": "bab7bb3fbad4",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Charlie ja Harper",
+   "start": "2026-12-03T15:35",
+   "url": "https://www.saare.events/node/1792493",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/CharlieHarper_EE_Apollo_EPstr_2592x3840.jpg?itok=YUMmAvdY",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792493"
+    }
+   ],
+   "id": "7055131b3e6e",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Polaarrebane - Njálla",
+   "start": "2026-12-03T16:15",
+   "url": "https://www.saare.events/node/1792494",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Polaarrebane_1350x2000-digi.jpg?itok=2CIQ30_C",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792494"
+    }
+   ],
+   "id": "2bcebfc7b3c9",
    "theatre": false,
    "kuressaare": true
   },
@@ -3819,6 +3333,52 @@
    "kuressaare": true
   },
   {
+   "title": "Billie ja võlumaailm",
+   "start": "2026-12-03T17:50",
+   "url": "https://www.saare.events/node/1792495",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Hexed_2592x3840fixed.jpg?itok=2oj1LR2X",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792495"
+    }
+   ],
+   "id": "9399df0ab846",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Metsik hobu üheksa",
+   "start": "2026-12-03T18:00",
+   "url": "https://www.saare.events/node/1792496",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/WH9-2592x3840.jpg?itok=A_NoNCU6",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792496"
+    }
+   ],
+   "id": "148c185ff5ae",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
    "title": "Lasteaed",
    "start": "2026-12-03T19:00",
    "url": "https://www.piletimaailm.com/performances/141082-lasteaed?lang=et_EE",
@@ -3865,6 +3425,29 @@
    "kuressaare": true
   },
   {
+   "title": "Sa võid näha kõike",
+   "start": "2026-12-03T20:15",
+   "url": "https://www.saare.events/node/1792497",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/KPD_YCSE_2592x3840.jpg?itok=wuZ-XmEM",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792497"
+    }
+   ],
+   "id": "4b452ed5fff8",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
    "title": "Metsik hobu üheksa",
    "start": "2026-12-03T20:30",
    "url": "https://www.saare.events/node/1789893",
@@ -3884,6 +3467,29 @@
     }
    ],
    "id": "a70bd58d15fd",
+   "theatre": false,
+   "kuressaare": true
+  },
+  {
+   "title": "Näljamängud. Lõikuspäeva päikesetõus",
+   "start": "2026-12-03T20:30",
+   "url": "https://www.saare.events/node/1792498",
+   "end": null,
+   "all_day": false,
+   "location": "Apollo Kino Saaremaa",
+   "price": "4.69 - 8.29 €",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/HungerGamesSOTR_B1Capitol_EE_Preview.jpg?itok=gDplnhfK",
+   "description": "",
+   "categories": [
+    "film"
+   ],
+   "sources": [
+    {
+     "name": "saare.events",
+     "url": "https://www.saare.events/node/1792498"
+    }
+   ],
+   "id": "b1da19f10362",
    "theatre": false,
    "kuressaare": true
   },
@@ -7283,7 +6889,7 @@
    "all_day": false,
    "location": "Kuressaare Kultuurikeskus",
    "price": "25 €",
-   "image": "https://www.saare.events/sites/saare/files/upload/theme/Mariale3_0_0.jpg",
+   "image": "https://www.saare.events/sites/saare/files/styles/announcement/public/2026-11/Ma%CC%88gi_Piletilevi.png?itok=meOQtM69",
    "description": "Kesk kaunist ja säravat talve, 15. jaanuaril, ootame teid kõiki südamlikule kontserdile. Eesti muusika legend Tõnis Mägi koos kaasa Kärt Jonasoniga astuvad üle pikkade aastate taas Kuressaare kultuurikeskuse lavale. Oma lood ja laulud räägitakse- lauldakse nii koos kui ka eraldi. Juurde Ain Agani kitarride helimaastik.\nTuleb unustamatu õhtu heas muusikalises seltskonnas!\nHinnainfo\nSoodushind kuni…",
    "categories": [
     "lava"
@@ -7295,7 +6901,7 @@
     },
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1775905"
+     "url": "https://www.saare.events/node/1779097"
     },
     {
      "name": "kultuurivara.ee",
@@ -7422,9 +7028,9 @@
    "kuressaare": true
   },
   {
-   "title": "Saaremaa Gümnaasiumi 7. lend esitleb revüüetendus - Meie, Inimesed\"",
+   "title": "Saaremaa Gümnaasiumi 7. lend esitleb - revüüetendus \"Meie, Inimesed\"",
    "start": "2027-01-22T19:00",
-   "url": "https://www.saare.events/node/1790542",
+   "url": "https://www.saare.events/node/1791641",
    "end": null,
    "all_day": false,
    "location": "Kuressaare Kultuurikeskus",
@@ -7437,7 +7043,7 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1790542"
+     "url": "https://www.saare.events/node/1791641"
     }
    ],
    "id": "330d9bc3dd45",
@@ -7720,11 +7326,11 @@
   {
    "title": "Saaremaa Gümnaasiumi 7. lend esitleb - revüüetendus ''Meie, Inimesed''",
    "start": "2027-02-06T19:00",
-   "url": "https://www.saare.events/node/1790616",
+   "url": "https://www.saare.events/node/1790726",
    "end": null,
    "all_day": false,
    "location": "Kuressaare Kultuurikeskus",
-   "price": "-  €",
+   "price": "17.00 -  €",
    "image": "https://www.saare.events/sites/saare/files/upload/theme/Mariale3_0_0.jpg",
    "description": "",
    "categories": [
@@ -7733,7 +7339,7 @@
    "sources": [
     {
      "name": "saare.events",
-     "url": "https://www.saare.events/node/1790616"
+     "url": "https://www.saare.events/node/1790726"
     }
    ],
    "id": "7da2efcd0ba6",
